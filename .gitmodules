@@ -1,3 +1,6 @@
 [submodule "RoleplayingMedicalRecordCore"]
 	path = RoleplayingMedicalRecordCore
 	url = https://github.com/Sebane1/RoleplayingMedicalRecordCore
+[submodule "MedicalRecordDalamud/PenumbraAndGlamourerHelpers"]
+	path = MedicalRecordDalamud/PenumbraAndGlamourerHelpers
+	url = https://github.com/Sebane1/PenumbraAndGlamourerHelpers
